@@ -34,5 +34,5 @@
       "default_title": "My YT Bookmarks",
       "default_popup": "popup.html"
     },
-    "manifest_version": 3
+    "manifest_version": 31
 }
